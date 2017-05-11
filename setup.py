@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mail_email_client',
-      version='0.1',
+      version='0.2',
       description='A simple module to send emails.',
       url='http://github.com/hmnhGeek/mail_email_client',
       author='hmnhGeek',
